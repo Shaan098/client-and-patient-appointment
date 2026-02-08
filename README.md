@@ -1,8 +1,10 @@
 🏥 Client & Patient Appointment System
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A full-stack appointment management web application built using the MERN stack — MongoDB, Express.js, React, and Node.js.
 
 🚀 Features
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔐 Secure authentication for clients & patients
 
