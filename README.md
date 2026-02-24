@@ -4,10 +4,12 @@
 
 A full-stack appointment management web application built using the MERN stack — MongoDB, Express.js, React, and Node.js.
 
+
+
+
 🚀 Features
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+-----
 🔐 Secure authentication for clients & patients
 
 📅 Book, update, and cancel appointments
