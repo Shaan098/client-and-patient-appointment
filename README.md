@@ -6,6 +6,7 @@ A full-stack Appointment Management Web Application built using the MERN Stack (
 This system allows patients to book appointments easily while providing doctors/clients with a powerful dashboard to manage schedules efficiently.
 
 🚀 Features
+--
 
 🔐 Secure Authentication (JWT-based login & registration)
 
