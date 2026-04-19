@@ -1,4 +1,4 @@
-🏥 Client & Patient Appointment Systemmm.
+🏥 Client & Patient Appointment Systemmm
 ---
 
 A full-stack Appointment Management Web Application built using the MERN Stack (MongoDB, Express.js, React, Node.js).
