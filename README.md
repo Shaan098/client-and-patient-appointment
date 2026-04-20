@@ -24,7 +24,6 @@ This system allows patients to book appointments easily while providing doctors/
 🎨 Frontend
 
 React.js
-
 CSS (Custom Components & Responsive Design)
 
 🖥️ Backend
