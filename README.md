@@ -6,7 +6,6 @@ This system allows patients to book appointments easily while providing doctors/
 
 🚀 Features
 --
-
 🔐 Secure Authentication (JWT-based login & registration)
 
 📅 Book, Update, and Cancel Appointments
